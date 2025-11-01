@@ -2,7 +2,7 @@
 ### 💻 Independent Freelance Developer | Backend & AI Engineer
 
 I’m a freelance developer focused on building secure, AI-powered, and high-performance systems.  
-Currently working with **Go (Gin, Swaggo)**, **Flutter**, and **Computer Vision (InsightFace, ONNX)**.
+Currently working with **Go**, **Rust**, **Flutter**, and **Computer Vision (InsightFace, ONNX)**.
 
 ---
 
