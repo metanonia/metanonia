@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Woody Choi
 ### 💻 Independent Freelance Developer | Backend & AI Engineer
 
-I’m a freelance developer focused on building secure, AI-powered, and high-performance systems.  
-Currently working with **Go**, **Rust**, **Flutter**, and **Computer Vision (InsightFace, ONNX)**.
+I’m a freelance developer specializing in secure and privacy-preserving technologies,
+combining AI, Blockchain, and Decentralized Identity (DID) to build reliable, high-performance systems.
+Currently working with Go, Rust, Flutter, and Computer Vision.
 
 ---
 
 ### 🧠 Tech Stack
-- **Backend:** Go, Rust, MongoDB, postgreSQL  
+- **Backend:** Go, Rust, MongoDB, postgreSQL, MySQL  
 - **Frontend:** Flutter, React (Next.js, Material UI)  
 - **AI/ML:** PyTorch, ONNX, CLIP, InsightFace  
 - **Infra:** AWS, Docker, Nginx  
