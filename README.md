@@ -7,26 +7,11 @@ Currently working with **Go (Gin, Swaggo)**, **Flutter**, and **Computer Vision 
 ---
 
 ### 🧠 Tech Stack
-- **Backend:** Go, Gin, MongoDB, gRPC  
+- **Backend:** Go, Rust, MongoDB, postgreSQL  
 - **Frontend:** Flutter, React (Next.js, Material UI)  
 - **AI/ML:** PyTorch, ONNX, CLIP, InsightFace  
 - **Infra:** AWS, Docker, Nginx  
 
----
-
-### 📦 Featured Projects
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🧠 **FaceSecure** | AI-based identity verification & access control | Go, InsightFace, ONNX |
-| 💳 **SmartPOS** | Flutter-based POS system with ESC/POS printer | Flutter, tPayDaemon |
-| 🧍 **ElderCareBot** | Chatbot for elderly monitoring | Llama, RAG, nmslib |
-
----
-
-### 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourname)
-[![Email](https://img.shields.io/badge/Email-me@yourmail.com-red?style=flat-square&logo=gmail)](mailto:me@yourmail.com)
 
 ---
 
