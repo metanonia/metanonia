@@ -15,10 +15,5 @@ Currently working with Go, Rust, Flutter, and Computer Vision.
 
 ---
 
-![Woody's GitHub stats](https://github-readme-stats.vercel.app/api?username=metanonia&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metanonia&layout=compact&theme=tokyonight)
-
----
-
 > “Independent development with creative freedom and solid engineering.”
 
