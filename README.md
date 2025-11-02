@@ -1,9 +1,21 @@
 # 👋 Hi, I'm Woody Choi
-### 💻 Independent Software Developer | Backend & AI Engineer
 
-I’m a independent software developer specializing in secure and privacy-preserving technologies,
-combining AI, Blockchain, and Decentralized Identity (DID) to build reliable, high-performance systems.
-Currently working with Go, Rust, Flutter, and Computer Vision.
+### 💻 Independent Software Developer  
+Focused on **secure**, **AI-powered**, and **high-performance systems**.
+
+---
+
+### 🧠 What I Do
+- 🦀 Build backend systems with **Go** and **Rust**  
+- 📱 Develop cross-platform apps using **Flutter**  
+- 🔗 Explore **Blockchain** and **Decentralized Identity (DID)** for next-generation security  
+- 👁️‍🗨️ Work on **Computer Vision** projects using **InsightFace** and **ONNX**
+
+---
+
+### 🚀 Current Focus
+Designing systems that merge **AI**, **security**, and **decentralized identity** —  
+bridging human trust with machine intelligence.
 
 ---
 
