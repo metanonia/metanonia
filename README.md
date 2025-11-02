@@ -8,7 +8,7 @@ Currently working with Go, Rust, Flutter, and Computer Vision.
 ---
 
 ### 🧠 Tech Stack
-- **Backend:** Go, Rust, MongoDB, postgreSQL, MySQL  
+- **Backend:** Go, Rust, Java, MongoDB, postgreSQL(pgvector), MySQL  
 - **Frontend:** Flutter, React (Next.js, Material UI)  
 - **AI/ML:** PyTorch, ONNX, CLIP, InsightFace  
 - **Infra:** AWS, Docker, Nginx  
