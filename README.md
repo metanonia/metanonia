@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Woody Choi
-### 💻 Independent Freelance Developer | Backend & AI Engineer
+### 💻 Independent Software Developer | Backend & AI Engineer
 
-I’m a freelance developer specializing in secure and privacy-preserving technologies,
+I’m a independent software developer specializing in secure and privacy-preserving technologies,
 combining AI, Blockchain, and Decentralized Identity (DID) to build reliable, high-performance systems.
 Currently working with Go, Rust, Flutter, and Computer Vision.
 
