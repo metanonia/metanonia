@@ -27,5 +27,5 @@ bridging human trust with machine intelligence.
 
 ---
 
-> “Independent development with creative freedom and solid engineering.”
+> “Independent Software Developer focused on secure, AI-powered, and high-performance systems.”
 
