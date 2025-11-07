@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Woody Choi
+# 👋 Hi, I'm metanonia
 
 ### 💻 Independent Software Developer  
 Focused on **secure**, **AI-powered**, and **high-performance systems**.
