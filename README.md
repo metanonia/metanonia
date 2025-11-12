@@ -20,10 +20,8 @@ bridging human trust with machine intelligence.
 ---
 
 ### 🧠 Tech Stack
-- **Backend:** Go, Rust, Java, MongoDB, postgreSQL(pgvector), MySQL  
-- **Frontend:** Flutter, React (Next.js, Material UI)  
-- **AI/ML:** PyTorch, ONNX, CLIP, InsightFace  
-- **Infra:** AWS, Docker, Nginx  
+- **Backend:** Go, Rust, Java, MongoDB, postgreSQL(pgvector), MySQL   
+- **AI/ML:** PyTorch, ONNX, Vision, RAG(LLM)  
 
 ---
 
