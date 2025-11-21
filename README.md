@@ -9,8 +9,7 @@ Focused on **secure**, **AI-powered**, and **high-performance systems**.
 - 🦀 Build backend systems with **Go** and **Rust**  
 - 📱 Develop cross-platform apps using **Flutter**  
 - 🔗 Explore **Blockchain** and **Decentralized Identity (DID)** for next-generation security  
-- 👁️‍🗨️ Work on **Computer Vision** projects using **InsightFace** and **ONNX**
-
+- 👁️‍🗨️ Work on **Computer Vision** and **RAG** projects
 ---
 
 ### 🚀 Current Focus
