@@ -13,8 +13,8 @@ Focused on **secure**, **AI-powered**, and **high-performance systems**.
 ---
 
 ### 🚀 Current Focus
-Designing systems that merge **AI**, **security**, and **decentralized identity** —  
-bridging human trust with machine intelligence.
+Designing systems that merge **AI**, **security**, and **decentralized identity** 
+—  bridging human trust with machine intelligence.
 
 ---
 
