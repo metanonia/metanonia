@@ -20,7 +20,7 @@ Designing systems that merge **AI**, **security**, and **decentralized identity*
 
 ### 🧠 Tech Stack
 - **Backend:** Go, Rust, Java, MongoDB, postgreSQL(pgvector), MySQL   
-- **AI/ML:** PyTorch, ONNX, Vision, RAG(LLM)  
+- **AI/ML:** PyTorch, PaddlePaddle, ONNX, Vision, RAG(LLM)  
 
 ---
 
